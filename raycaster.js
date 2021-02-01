@@ -1,4 +1,4 @@
-const raycaster = THREE.Raycaster()
+const raycaster = new THREE.Raycaster()
 
 // By default, raycaster casts from 0 to Infinity (near = 0, far = Infinity)
 
